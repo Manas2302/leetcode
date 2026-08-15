@@ -22,6 +22,7 @@ Solutions of leetcode questions.
 | ------- |
 | [0001-two-sum](https://github.com/Manas2302/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Manas2302/leetcode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Manas2302/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manas2302/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -36,6 +37,7 @@ Solutions of leetcode questions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manas2302/leetcode/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/Manas2302/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/Manas2302/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Manas2302/leetcode/tree/master/1528-shuffle-string) |
 ## Stack
@@ -53,6 +55,7 @@ Solutions of leetcode questions.
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Manas2302/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manas2302/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -66,4 +69,8 @@ Solutions of leetcode questions.
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Manas2302/leetcode/tree/master/1929-concatenation-of-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Manas2302/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
