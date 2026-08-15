@@ -29,6 +29,7 @@ Solutions of leetcode questions.
 | ------- |
 | [0217-contains-duplicate](https://github.com/Manas2302/leetcode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manas2302/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1859-sorting-the-sentence](https://github.com/Manas2302/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Solutions of leetcode questions.
 | [0387-first-unique-character-in-a-string](https://github.com/Manas2302/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/Manas2302/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Manas2302/leetcode/tree/master/1528-shuffle-string) |
+| [1859-sorting-the-sentence](https://github.com/Manas2302/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Stack
 |  |
 | ------- |
@@ -73,4 +75,8 @@ Solutions of leetcode questions.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Manas2302/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Manas2302/leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
