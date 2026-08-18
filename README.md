@@ -83,4 +83,12 @@ Solutions of leetcode questions.
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Manas2302/leetcode/tree/master/1859-sorting-the-sentence) |
+## Math
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Manas2302/leetcode/tree/master/1486-xor-operation-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Manas2302/leetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
