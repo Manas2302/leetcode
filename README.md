@@ -24,6 +24,7 @@ Solutions of leetcode questions.
 | [0001-two-sum](https://github.com/Manas2302/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Manas2302/leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manas2302/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/Manas2302/leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manas2302/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -42,6 +43,7 @@ Solutions of leetcode questions.
 | [0344-reverse-string](https://github.com/Manas2302/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manas2302/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manas2302/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/Manas2302/leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Manas2302/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Manas2302/leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Manas2302/leetcode/tree/master/1678-goal-parser-interpretation) |
