@@ -44,6 +44,7 @@ Solutions of leetcode questions.
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manas2302/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1108-defanging-an-ip-address](https://github.com/Manas2302/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Manas2302/leetcode/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/Manas2302/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1859-sorting-the-sentence](https://github.com/Manas2302/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Stack
 |  |
