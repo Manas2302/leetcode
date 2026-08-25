@@ -8,6 +8,7 @@ Solutions of leetcode questions.
 | ------- |
 | [0001-two-sum](https://github.com/Manas2302/leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manas2302/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Manas2302/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manas2302/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Manas2302/leetcode/tree/master/0283-move-zeroes) |
 | [0804-unique-morse-code-words](https://github.com/Manas2302/leetcode/tree/master/0804-unique-morse-code-words) |
@@ -23,6 +24,7 @@ Solutions of leetcode questions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manas2302/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Manas2302/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manas2302/leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manas2302/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Manas2302/leetcode/tree/master/0771-jewels-and-stones) |
@@ -31,6 +33,7 @@ Solutions of leetcode questions.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Manas2302/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manas2302/leetcode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manas2302/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/Manas2302/leetcode/tree/master/1859-sorting-the-sentence) |
@@ -67,6 +70,7 @@ Solutions of leetcode questions.
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Manas2302/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manas2302/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manas2302/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
@@ -103,4 +107,12 @@ Solutions of leetcode questions.
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manas2302/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Manas2302/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Manas2302/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
