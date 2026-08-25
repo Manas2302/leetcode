@@ -19,6 +19,7 @@ Solutions of leetcode questions.
 | [1480-running-sum-of-1d-array](https://github.com/Manas2302/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Manas2302/leetcode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Manas2302/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/Manas2302/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Manas2302/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ Solutions of leetcode questions.
 | [0771-jewels-and-stones](https://github.com/Manas2302/leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Manas2302/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manas2302/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/Manas2302/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ Solutions of leetcode questions.
 | [0169-majority-element](https://github.com/Manas2302/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manas2302/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manas2302/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/Manas2302/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
