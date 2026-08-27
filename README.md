@@ -28,6 +28,7 @@ Solutions of leetcode questions.
 | [0001-two-sum](https://github.com/Manas2302/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Manas2302/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manas2302/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Manas2302/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manas2302/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Manas2302/leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Manas2302/leetcode/tree/master/0804-unique-morse-code-words) |
@@ -39,6 +40,7 @@ Solutions of leetcode questions.
 | ------- |
 | [0169-majority-element](https://github.com/Manas2302/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manas2302/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Manas2302/leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manas2302/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/Manas2302/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Dynamic Programming
@@ -49,6 +51,7 @@ Solutions of leetcode questions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manas2302/leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Manas2302/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Manas2302/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manas2302/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manas2302/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
