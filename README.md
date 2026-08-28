@@ -8,6 +8,7 @@ Solutions of leetcode questions.
 | ------- |
 | [0001-two-sum](https://github.com/Manas2302/leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manas2302/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Manas2302/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Manas2302/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manas2302/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Manas2302/leetcode/tree/master/0283-move-zeroes) |
@@ -114,6 +115,7 @@ Solutions of leetcode questions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Manas2302/leetcode/tree/master/0136-single-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Manas2302/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Monotonic Stack
 |  |
