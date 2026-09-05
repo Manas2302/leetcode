@@ -23,6 +23,7 @@ Solutions of leetcode questions.
 | [1672-richest-customer-wealth](https://github.com/Manas2302/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Manas2302/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Manas2302/leetcode/tree/master/1929-concatenation-of-array) |
+| [2032-two-out-of-three](https://github.com/Manas2302/leetcode/tree/master/2032-two-out-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Solutions of leetcode questions.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manas2302/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Manas2302/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Manas2302/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2032-two-out-of-three](https://github.com/Manas2302/leetcode/tree/master/2032-two-out-of-three) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Solutions of leetcode questions.
 | ------- |
 | [0136-single-number](https://github.com/Manas2302/leetcode/tree/master/0136-single-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Manas2302/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2032-two-out-of-three](https://github.com/Manas2302/leetcode/tree/master/2032-two-out-of-three) |
 ## Monotonic Stack
 |  |
 | ------- |
